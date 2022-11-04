@@ -13,7 +13,8 @@ User Interface
 
 ![UI](https://user-images.githubusercontent.com/89315780/200030608-36f7a137-e05d-4c01-af2f-fa559779dc36.jpg)
 
-Technologies
+Technologies-->
+
 1.Python Flask
 2.Heroku
 3.HTML
